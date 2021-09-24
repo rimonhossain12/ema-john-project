@@ -3,7 +3,9 @@ import React from 'react';
 const Cart = () => {
     return (
         <div>
-            <h1>Cart UI show</h1>
+            <h5>Items Ordered:</h5>
+            <p><small>Price: </small></p>
+
         </div>
     );
 };
